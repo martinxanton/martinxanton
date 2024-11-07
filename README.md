@@ -6,7 +6,7 @@
 - 🔭 I’m a **Software Engineering Student** at Universidad Nacional Mayor de San Marcos, expected graduation in 2025.
 - 🌱 Currently expanding my skills in **Kotlin, Flutter, and Python** to create robust applications.
 - 🚀 Passionate about **UI/UX Design**, **Full-Stack Development**, and building solutions that solve real-world problems.
-- 📚 Recent projects include an interactive chatbot for startups and a mobile app for social connection.
+- 📚 Recent projects leverage AI to enhance functionality and user experience.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
